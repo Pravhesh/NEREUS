@@ -1,0 +1,14 @@
+individual_images
+
+taxonomy_descriptor_zooscan.csv
+
+dataset_descriptor_zooscan.csv
+
+prepared_dataset
+yolov5nu.pt
+yolo11n.pt
+src\classification\__pycache__
+src\detection\__pycache__
+src\pipeline\__pycache__
+src\preprocessing\__pycache__
+runs
