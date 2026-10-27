@@ -68,3 +68,14 @@ scripts/upload_yolo_only.py
 scripts/upload_zip.py
 scripts/zip_code.py
 scripts/fix_line_endings.py
+
+# ── Superpowers Agent Scratch & Specs ────────────────────────────
+.superpowers/
+docs/superpowers/
+
+# ── RPi5 deployment local assets ─────────────────────────────────
+deployment_rpi5/models/
+deployment_rpi5/test_images/*.jpg
+deployment_rpi5/test_images/*.png
+deployment_rpi5/venv_rpi5/
+deployment_rpi5/benchmark_report.json
