@@ -146,7 +146,7 @@ For development and model export on a workstation:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Pravhesh/NEREUS.git
+git clone https://github.com/syedfaazil/NEREUS.git
 cd NEREUS
 
 # Setup environment
@@ -326,6 +326,6 @@ This project is licensed under the [MIT License](LICENSE).
   author = {The NEREUS Team},
   title = {NEREUS: Automated Edge Classification and Enumeration of Marine Zooplankton},
   year = {2026},
-  url = {https://github.com/Pravhesh/NEREUS}
+  url = {https://github.com/syedfaazil/NEREUS}
 }
 ```
