@@ -311,13 +311,19 @@ Pretrained model weights are hosted on the Hugging Face Hub:
 
 ---
 
+## Team & Contributors
+
+NEREUS was developed collaboratively as a joint team effort for the Smart India Hackathon (SIH), spanning distributed HPC cluster training, model pruning, and edge deployment engineering.
+
+---
+
 ## Citation & License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ```bibtex
 @software{nereus2026,
-  author = {Pravhesh V},
+  author = {The NEREUS Team},
   title = {NEREUS: Automated Edge Classification and Enumeration of Marine Zooplankton},
   year = {2026},
   url = {https://github.com/Pravhesh/NEREUS}
